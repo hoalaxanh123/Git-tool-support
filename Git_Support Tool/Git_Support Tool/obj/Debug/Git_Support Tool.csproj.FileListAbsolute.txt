@@ -9,3 +9,14 @@ C:\Users\Admin\source\repos\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Supp
 C:\Users\Admin\source\repos\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support Tool.exe
 C:\Users\Admin\source\repos\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support Tool.pdb
 C:\Users\Admin\source\repos\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support_Tool.frm_Input.resources
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\bin\Debug\Git_Support Tool.exe.config
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\bin\Debug\Git_Support Tool.exe
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\bin\Debug\Git_Support Tool.pdb
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support Tool.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support_Tool.Form1.resources
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support_Tool.frm_Input.resources
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support_Tool.Properties.Resources.resources
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support Tool.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support Tool.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support Tool.exe
+D:\Users\Admin\Desktop\GIT_TOOL\Git-tool-support\Git_Support Tool\Git_Support Tool\obj\Debug\Git_Support Tool.pdb
